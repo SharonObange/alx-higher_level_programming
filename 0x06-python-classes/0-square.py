@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 
-
 """This class is used to define a square"""
+
 
 class Square:
     """
