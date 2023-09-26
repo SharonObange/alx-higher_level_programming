@@ -1,8 +1,11 @@
 #!/usr/bin/python3
 
+
+
+"""This class is used to define a square"""
+
 class Square:
     """
-    This class is used to define a square.
     A square is defined by its four equal sides and four right angles.
 
     Attributes:
